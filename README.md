@@ -1,0 +1,2 @@
+# SmartTranslate_shanbei
+以扇贝单词掌握词汇量为依据，对文本文档中的生词进行自动翻译
